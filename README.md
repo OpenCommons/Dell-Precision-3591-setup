@@ -1,6 +1,21 @@
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+Alternatively, for H1 and H2, an underline-ish style:
+
+Alt-H1
+======
+
+Alt-H2
+------
+
 # Dell-Precision-3591-setup
 Preparing for the OIT Applied Computing Workforce Ready Course? This repository is intended to step you through the setup process for your Dell Precision 3591 laptop.
-##Step 1: Windows Update and Patching (2.5–3 hours)##
+##Step 1: Windows Update and Patching (2.5–3 hours)
 Unbox and Power On
 *Plug in laptop with provided charger 
 *:Start Windows and complete Windows initial setup 
