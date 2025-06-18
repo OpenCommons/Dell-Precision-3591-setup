@@ -17,12 +17,12 @@ Alt-H2
 Preparing for the OIT Applied Computing Workforce Ready Course? This repository is intended to step you through the setup process for your Dell Precision 3591 laptop.
 ## Step 1: Windows Update and Patching (2.5–3 hours)
 Unbox and Power On
-*Plug in laptop with provided charger 
-*:Start Windows and complete Windows initial setup 
-*:(language, Wi-Fi, user account, etc.)
+* Plug in laptop with provided charger 
+ * Start Windows and complete Windows initial setup 
+ * (language, Wi-Fi, user account, etc.)
 Sign in to Microsoft Account
-:The system will patch automatically. 
-:Please keep an eye on the system to ensure it updates correctly.
+* The system will patch automatically. 
+* Please keep an eye on the system to ensure it updates correctly.
 
 ## Step 2: Configure System Settings (10 minutes)##
 Set Power Mode:
