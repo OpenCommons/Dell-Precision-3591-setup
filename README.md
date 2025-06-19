@@ -9,7 +9,7 @@ Unbox and Power On
 * The system will patch automatically. 
 * Please keep an eye on the system to ensure it updates correctly.
 
-## Step 2: Configure System Settings (10 minutes)##
+## Step 2: Configure System Settings (10 minutes)
 Set Power Mode:
 * Control Panel > Hardware and Sound > Power Options > <del>High Performance</del> <-- This does not work for me I do not have these power settings
 * Search for and select "Power Sleep and Battery Settings" under Power Mode select "Best Performance"
@@ -19,7 +19,7 @@ Install Chrome and Firefox
 * Suggest you pick Chrome as your default browser for all apps html, mhtml, pdf, shtml, svg
 [Link to Firefox](https://www.mozilla.org/en-US/firefox/new/?xv=refresh-new&v=b)
 
-## Step 3: Install Development Tools (60–90 minutes)##
+## Step 3: Install Development Tools (60–90 minutes)
 
 Install Visual Studio Code (~10 min)
 * https://code.visualstudio.com/ 
@@ -54,20 +54,20 @@ Install Git (~5 min)
 * Install with default options
 * Set your global Git identity:
 
-## Step 4: Set Up GitHub Account (15–20 minutes)##
+## Step 4: Set Up GitHub Account (15–20 minutes)
 Go to: https://github.com
 Click Sign Up
 * Use your school or personal email
 * Choose a username and password
 Confirm your email
 
-## Step 5: Verify Environment (15 minutes)##
+## Step 5: Verify Environment (15 minutes)
 VS Code: Open and run a Python .ipynb notebook <-- **what notebook?**
 Anaconda: Launch Navigator and create an environment <-- **If you have set the Path correctly open a PowerShell and type anaconda-navigator**
 QGIS: Start a sample mapping project
 Git + GitHub: Clone a test repo or push your first commit
 
-##Step 6: Final Touches (10 minutes)##
+##Step 6: Final Touches (10 minutes)
 Pin frequently used apps: VS Code, Anaconda Navigator, QGIS
 Create a Work folder in Documents
 
