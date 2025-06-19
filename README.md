@@ -2,6 +2,7 @@
 Preparing for the OIT Applied Computing Workforce Ready Course? This repository is intended to step you through the setup process for your Dell Precision 3591 laptop.
 
 ## Step 1: Windows Update and Patching (2.5–3 hours)
+
 Unbox and Power On
 1. Plug in laptop with provided charger 
 3. Start Windows and complete Windows initial setup (language, Wi-Fi, user account, etc.)
@@ -10,9 +11,11 @@ Unbox and Power On
 * Please keep an eye on the system to ensure it updates correctly.
 
 ## Step 2: Configure System Settings (10 minutes)
+
 Set Power Mode:
 * Control Panel > Hardware and Sound > Power Options > <del>High Performance</del> <-- This does not work for me I do not have these power settings
 * Search for and select "Power Sleep and Battery Settings" under Power Mode select "Best Performance"
+
 Install Chrome and Firefox
 * [Link to Chrome](https://www.google.com/chrome/)
 * Download Chrome and run the executable
@@ -64,6 +67,7 @@ Go to: https://github.com
 Click Sign Up
 * Use your school or personal email
 * Choose a username and password
+
 Confirm your email
 
 ## Step 5: Verify Environment (15 minutes)
@@ -77,7 +81,9 @@ QGIS: Start a sample mapping project
 Git + GitHub: Clone a test repo or push your first commit
 
 ##Step 6: Final Touches (10 minutes)
+
 Pin frequently used apps: VS Code, Anaconda Navigator, QGIS
+
 Create a Work folder in Documents
 
 
