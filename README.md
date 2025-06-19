@@ -80,7 +80,7 @@ QGIS: Start a sample mapping project
 
 Git + GitHub: Clone a test repo or push your first commit
 
-##Step 6: Final Touches (10 minutes)
+## Step 6: Final Touches (10 minutes)
 
 Pin frequently used apps: VS Code, Anaconda Navigator, QGIS
 
