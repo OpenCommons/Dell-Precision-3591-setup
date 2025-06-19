@@ -28,6 +28,7 @@ Install Visual Studio Code (~10 min)
     * Python
     * Jupyter
     * GitLens (You will be asked if you trust GitKraken - click Trust Publisher and Install)
+
 Install Anaconda (~20 min)
 * https://www.anaconda.com/products/distribution 
 * Select the Skip Registration link	on the right enter your email and submit for download.	
@@ -43,28 +44,36 @@ Install Anaconda (~20 min)
     * **Select New again and type %USERPROFILE%\anaconda3\scripts**
     * **ReBoot**
     * **Start PowerShell and type jupyter-notebook - the notebook should open up and place you in a browser window**
+ 
 Install QGIS (~20 min)
 * https://qgis.org
 * Skip the Donation and go to download
 * Download Long Term Version for Windows
 * Run the downloaded file
 * Accept defaults, launch and test with a sample project
+
 Install Git (~5 min)
 * https://git-scm.com/downloads 
 * Install with default options
 * Set your global Git identity:
 
 ## Step 4: Set Up GitHub Account (15–20 minutes)
+
 Go to: https://github.com
+
 Click Sign Up
 * Use your school or personal email
 * Choose a username and password
 Confirm your email
 
 ## Step 5: Verify Environment (15 minutes)
+
 VS Code: Open and run a Python .ipynb notebook <-- **what notebook?**
+
 Anaconda: Launch Navigator and create an environment <-- **If you have set the Path correctly open a PowerShell and type anaconda-navigator**
+
 QGIS: Start a sample mapping project
+
 Git + GitHub: Clone a test repo or push your first commit
 
 ##Step 6: Final Touches (10 minutes)
